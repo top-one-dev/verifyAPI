@@ -1,0 +1,63 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  consumer: one
+  ConsumerNo: MyString
+  Curr_own_enq: MyString
+  prev_own_enq: MyString
+  Curr_other_enq: MyString
+  prev_other_enq: MyString
+  Curr_jdgmnt: MyString
+  prev_jdgmn: MyString
+  other_jdgmnt: MyString
+  Curr_notices: MyString
+  prev_notices: MyString
+  other_notices: MyString
+  Curr_default: MyString
+  prev_default: MyString
+  Curr_trace_alerts: MyString
+  prev_trace_alerts: MyString
+  active_accounts: MyString
+  curr_positive_loans: MyString
+  curr_higest_mia: MyString
+  prev_positive_accounts: MyString
+  prev_higest_mia: MyString
+  closed_accounts: MyString
+  adverse_accounts: MyString
+  mnths_in_arrears: MyString
+  curr_balance: MyString
+  curr_monthly_installment: MyString
+  string: MyString
+  cummulative_arrears_amount: MyString
+  filler: MyString
+
+two:
+  consumer: two
+  ConsumerNo: MyString
+  Curr_own_enq: MyString
+  prev_own_enq: MyString
+  Curr_other_enq: MyString
+  prev_other_enq: MyString
+  Curr_jdgmnt: MyString
+  prev_jdgmn: MyString
+  other_jdgmnt: MyString
+  Curr_notices: MyString
+  prev_notices: MyString
+  other_notices: MyString
+  Curr_default: MyString
+  prev_default: MyString
+  Curr_trace_alerts: MyString
+  prev_trace_alerts: MyString
+  active_accounts: MyString
+  curr_positive_loans: MyString
+  curr_higest_mia: MyString
+  prev_positive_accounts: MyString
+  prev_higest_mia: MyString
+  closed_accounts: MyString
+  adverse_accounts: MyString
+  mnths_in_arrears: MyString
+  curr_balance: MyString
+  curr_monthly_installment: MyString
+  string: MyString
+  cummulative_arrears_amount: MyString
+  filler: MyString

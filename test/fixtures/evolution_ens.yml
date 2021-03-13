@@ -1,0 +1,33 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  consumer: one
+  ConsumerNo: MyString
+  date_of_enquiry: 2020-11-19
+  enq_subscriber_name: MyString
+  enq_subscriber_contact: MyString
+  enq_type_cd: MyString
+  enq_type_desc: MyString
+  own_account: MyString
+  loan_reason_cd: MyString
+  loan_reason_desc: 
+  enq_ref_no: MyString
+  industry_cd: MyString
+  industry_desc: MyString
+  message: MyString
+
+two:
+  consumer: two
+  ConsumerNo: MyString
+  date_of_enquiry: 2020-11-19
+  enq_subscriber_name: MyString
+  enq_subscriber_contact: MyString
+  enq_type_cd: MyString
+  enq_type_desc: MyString
+  own_account: MyString
+  loan_reason_cd: MyString
+  loan_reason_desc: 
+  enq_ref_no: MyString
+  industry_cd: MyString
+  industry_desc: MyString
+  message: MyString

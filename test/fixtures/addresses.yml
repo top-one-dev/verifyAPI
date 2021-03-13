@@ -1,0 +1,31 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  consumer: one
+  ConsumerNo: MyString
+  InformationDate: 2020-11-19
+  Line1: MyString
+  Line2: MyString
+  Suburb: MyString
+  City: MyString
+  PostalCode: MyString
+  ProvinceCode: MyString
+  Province: MyString
+  AddressPeriod: MyString
+  OwnerTenant: MyString
+  AddressChanged: MyString
+
+two:
+  consumer: two
+  ConsumerNo: MyString
+  InformationDate: 2020-11-19
+  Line1: MyString
+  Line2: MyString
+  Suburb: MyString
+  City: MyString
+  PostalCode: MyString
+  ProvinceCode: MyString
+  Province: MyString
+  AddressPeriod: MyString
+  OwnerTenant: MyString
+  AddressChanged: MyString

@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  consumer: one
+  DefiniteMatchCount: MyString
+  PossibleMatchCount: MyString
+  MatchedConsumerNo: MyString
+  PossibleConsumerNo: MyString
+  PossibleAdverseIndicator: MyString
+
+two:
+  consumer: two
+  DefiniteMatchCount: MyString
+  PossibleMatchCount: MyString
+  MatchedConsumerNo: MyString
+  PossibleConsumerNo: MyString
+  PossibleAdverseIndicator: MyString

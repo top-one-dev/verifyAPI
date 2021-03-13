@@ -1,0 +1,33 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  consumer: one
+  HawkNo: MyString
+  HawkCode: MyString
+  HawkDesc: MyString
+  HawkFound: MyString
+  DeceasedDate: 2020-11-19
+  SubscriberName: MyString
+  SubscriberRef: MyString
+  ContactName: MyString
+  ContactTelCode: MyString
+  ContactTelNo: MyString
+  VictimReference: MyString
+  VictimTelCode: MyString
+  VictimTelNo: MyString
+
+two:
+  consumer: two
+  HawkNo: MyString
+  HawkCode: MyString
+  HawkDesc: MyString
+  HawkFound: MyString
+  DeceasedDate: 2020-11-19
+  SubscriberName: MyString
+  SubscriberRef: MyString
+  ContactName: MyString
+  ContactTelCode: MyString
+  ContactTelNo: MyString
+  VictimReference: MyString
+  VictimTelCode: MyString
+  VictimTelNo: MyString

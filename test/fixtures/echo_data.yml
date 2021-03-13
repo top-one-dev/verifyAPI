@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  consumer: one
+  SubscriberCode: MyString
+  ClientReference: MyString
+  BranchNumber: MyString
+  BatchNumber: MyString
+
+two:
+  consumer: two
+  SubscriberCode: MyString
+  ClientReference: MyString
+  BranchNumber: MyString
+  BatchNumber: MyString

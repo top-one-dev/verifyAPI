@@ -1,0 +1,53 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  consumer: one
+  RecordSeq: MyString
+  Part: MyString
+  PartSeq: MyString
+  ConsumerNo: MyString
+  Surname: MyString
+  Foreman1: MyString
+  Foreman2: MyString
+  Foreman3: MyString
+  Title: MyString
+  Gender: MyString
+  NameInfoDate: 2020-11-19
+  DateOfBirth: 2020-11-19
+  IdentityNo1: MyString
+  IdentityNo2: MyString
+  MaritalStatusCode: 1
+  MaritalStatusDesc: MyString
+  Dependants: MyString
+  SpouseName1: MyString
+  SpouseName2: MyString
+  TelephoneNumbers: MyString
+  DeceasedDate: 2020-11-19
+  CellNumber: MyString
+  EMail: MyString
+
+two:
+  consumer: two
+  RecordSeq: MyString
+  Part: MyString
+  PartSeq: MyString
+  ConsumerNo: MyString
+  Surname: MyString
+  Foreman1: MyString
+  Foreman2: MyString
+  Foreman3: MyString
+  Title: MyString
+  Gender: MyString
+  NameInfoDate: 2020-11-19
+  DateOfBirth: 2020-11-19
+  IdentityNo1: MyString
+  IdentityNo2: MyString
+  MaritalStatusCode: 1
+  MaritalStatusDesc: MyString
+  Dependants: MyString
+  SpouseName1: MyString
+  SpouseName2: MyString
+  TelephoneNumbers: MyString
+  DeceasedDate: 2020-11-19
+  CellNumber: MyString
+  EMail: MyString

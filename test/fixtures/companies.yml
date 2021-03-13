@@ -1,0 +1,55 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  consumer: one
+  ITNumber: MyString
+  Name: MyString
+  NameType: MyString
+  BusinessName: MyString
+  PhysicalAddress: MyString
+  Suburb: MyString
+  Town: MyString
+  Country: MyString
+  PostCode: MyString
+  PostalAddress: MyString
+  PostalSuburb: MyString
+  PostalTown: MyString
+  PostalCountry: MyString
+  PostalPostCode: MyString
+  PhoneNo: MyString
+  FaxNo: MyString
+  RegNo: MyString
+  RegStatus: MyString
+  RegStatusCode: MyString
+  TradingNumber: MyString
+  ProductCode: MyString
+  ProductDesc: MyString
+  ProductType: MyString
+  Hours: MyString
+
+two:
+  consumer: two
+  ITNumber: MyString
+  Name: MyString
+  NameType: MyString
+  BusinessName: MyString
+  PhysicalAddress: MyString
+  Suburb: MyString
+  Town: MyString
+  Country: MyString
+  PostCode: MyString
+  PostalAddress: MyString
+  PostalSuburb: MyString
+  PostalTown: MyString
+  PostalCountry: MyString
+  PostalPostCode: MyString
+  PhoneNo: MyString
+  FaxNo: MyString
+  RegNo: MyString
+  RegStatus: MyString
+  RegStatusCode: MyString
+  TradingNumber: MyString
+  ProductCode: MyString
+  ProductDesc: MyString
+  ProductType: MyString
+  Hours: MyString
